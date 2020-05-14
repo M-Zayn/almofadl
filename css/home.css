@@ -1891,6 +1891,14 @@ html[dir="ltr"] .nav-bar .icons button:last-child {
   margin: 0;
 }
 
+html[dir="ltr"] .servs .col-md-3 {
+  padding: 0 10px;
+}
+
+html[dir="ltr"] .servs .service span {
+  padding: 0 7px;
+}
+
 html[dir="ltr"] .sp-offers .owl-carousel .owl-nav {
   left: unset;
   right: 30px;
